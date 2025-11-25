@@ -5,6 +5,7 @@ on:
     paths:
       - '**.css'
       - '!*.min.css'
+  workflow_dispatch:
 
 permissions:
   contents: write  # Required to push commits. All other permissions are none.
