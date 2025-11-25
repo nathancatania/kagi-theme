@@ -6,6 +6,9 @@ on:
       - '**.css'
       - '!*.min.css'
 
+permissions:
+  contents: write  # Required to push commits. All other permissions are none.
+
 jobs:
   minify:
     runs-on: ubuntu-latest
