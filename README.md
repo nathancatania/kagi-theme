@@ -12,6 +12,12 @@ All modifications are implemented as overrides at the end of the CSS file and cl
 ## Appearance Settings
 <img width="1409" height="882" alt="image" src="https://github.com/user-attachments/assets/54642203-b8f3-410b-ab9f-c8a946a737ba" />
 
+## Usage
+1. Open [kagi-darker.min.css](https://github.com/nathancatania/kagi-theme/blob/main/kagi-darker.min.css) and copy the entire contents.
+2. [Click here](https://kagi.com/settings/custom_css) to open Kagi's Custom CSS settings.
+3. Paste the copied CSS into the text area field. Overwrite everything already there. Click **Save Changes** to apply.
+4. Perform a new Kagi search and the theme should be applied. If not, you may need to do a hard refresh, e.g. CMD+Shift+R
+
 ## Changes Made
 **Font:**
 - Switched to Google Sans
